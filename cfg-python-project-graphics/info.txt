@@ -1,0 +1,2 @@
+TOP TRUMPS
+VERSION: GUI with "tkinter" library
